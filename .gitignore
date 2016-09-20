@@ -1,0 +1,5 @@
+/bin/
+.classpath
+.project
+output.txt
+.settings/org.eclipse.jdt.core.prefs
